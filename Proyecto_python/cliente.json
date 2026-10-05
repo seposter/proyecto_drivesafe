@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "pablo",
+        "documento": "1058961",
+        "tipo_vehiculo": "carro"
+    },
+    {
+        "id": 2,
+        "nombre": "carlos",
+        "documento": "1165198",
+        "tipo_vehiculo": "moto"
+    }
+]
