@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nombre": "pepe",
+        "documento": "18998795",
+        "especialidad": "moto",
+        "disponible": true
+    }
+]
